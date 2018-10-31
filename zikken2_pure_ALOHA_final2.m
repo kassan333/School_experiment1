@@ -1,3 +1,4 @@
+%%Pure ALOHAシミュレーションプログラム%%
 S_S = zeros(1,28);
 S_R_1 = zeros(1,28);
 for k = 1: 28
